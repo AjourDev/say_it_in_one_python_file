@@ -28,6 +28,6 @@ Dev list
 - [ ] To-do
 
 ## Tier 3
-- [ ] Calendar
+- [x] Calendar (No CRUD)
 - [ ] Elevator
 - [ ] Survey
