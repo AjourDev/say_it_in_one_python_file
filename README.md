@@ -9,7 +9,7 @@ Dev list
 - [x] Bin2DEC
 - [x] Calculator
 - [x] Notes app
-- [ ] Input validation
+- [x] Input validation
 - [ ] CSV2JSON
 - [ ] Pomodoro clock
 - [ ] Quiz
