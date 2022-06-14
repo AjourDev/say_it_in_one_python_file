@@ -8,9 +8,9 @@ Dev list
 ## Tier 1
 - [x] Bin2DEC
 - [x] Calculator
+- [x] Notes app
 - [ ] Input validation
 - [ ] CSV2JSON
-- [ ] Notes app
 - [ ] Pomodoro clock
 - [ ] Quiz
 - [ ] Roman2Dec
