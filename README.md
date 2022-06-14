@@ -6,7 +6,7 @@ In this repository I'll be solving some of florinpop17's app ideas.
 Dev list
 
 ## Tier 1
-- [x] Bin2DEC
+- [x] Bin2Dec
 - [x] Calculator
 - [x] Notes app
 - [x] Input validation
