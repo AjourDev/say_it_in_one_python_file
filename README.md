@@ -18,16 +18,17 @@ Dev list
 - [ ] Vigenere Cipher
 
 ## Tier 2
-- [ ] Card memory game
-- [ ] Currency converter
+- [ ] Password generator
 - [ ] This or That
+- [ ] To-do
+- [ ] Currency converter
+- [ ] Card memory game
 - [ ] Keyvalue
 - [ ] Lorem Ipsum generator
 - [ ] Password generator
 - [ ] Voting
-- [ ] To-do
 
 ## Tier 3
 - [x] Calendar (No CRUD)
-- [ ] Elevator
+- [x] Elevator
 - [ ] Survey
