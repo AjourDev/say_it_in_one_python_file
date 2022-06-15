@@ -25,7 +25,7 @@ Dev list
 - [ ] Card memory game
 - [ ] Keyvalue
 - [ ] Lorem Ipsum generator
-- [ ] Password generator
+- [x] Password generator
 - [ ] Voting
 
 ## Tier 3
