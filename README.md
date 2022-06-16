@@ -18,7 +18,6 @@ Dev list
 - [ ] Vigenere Cipher
 
 ## Tier 2
-- [ ] Password generator
 - [ ] This or That
 - [ ] To-do
 - [ ] Currency converter
