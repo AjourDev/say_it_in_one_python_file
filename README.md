@@ -10,21 +10,21 @@ Dev list
 - [x] Calculator
 - [x] Notes app
 - [x] Input validation
+- [x] Stopwatch
 - [ ] CSV2JSON
 - [ ] Pomodoro clock
 - [ ] Quiz
 - [ ] Roman2Dec
-- [ ] Stopwatch
 - [ ] Vigenere Cipher
 
 ## Tier 2
+- [x] Password generator
 - [ ] This or That
 - [ ] To-do
 - [ ] Currency converter
 - [ ] Card memory game
 - [ ] Keyvalue
 - [ ] Lorem Ipsum generator
-- [x] Password generator
 - [ ] Voting
 
 ## Tier 3
