@@ -1,3 +1,7 @@
+########
+# Ajourdev © Nick
+########
+
 from tkinter import *
 import os
 from random import randint
