@@ -19,7 +19,7 @@ Dev list
 
 ## Tier 2
 - [x] Password generator
-- [ ] This or That
+- [x] This or That
 - [ ] To-do
 - [ ] Currency converter
 - [ ] Card memory game
