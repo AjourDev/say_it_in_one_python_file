@@ -20,11 +20,11 @@ Dev list
 ## Tier 2
 - [x] Password generator
 - [x] This or That
+- [x] Lorem Ipsum generator
 - [ ] Currency converter
 - [ ] To-do
 - [ ] Card memory game
 - [ ] Keyvalue
-- [ ] Lorem Ipsum generator
 - [ ] Voting
 
 ## Tier 3
