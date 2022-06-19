@@ -36,8 +36,8 @@ root.resizable(0, 0)
 [root.rowconfigure(idx, weight=1) for idx in range(2)]
 [root.columnconfigure(idx, weight=1+idx) for idx in range(2)]
 
-# Binary
-Label(root, text='Binary').grid(row=0, column=0, sticky='E')
+# Decimal
+Label(root, text='Decimal').grid(row=0, column=0, sticky='E')
 
 roman_var = StringVar(value='0')
 roman_var.trace('w', lambda n, i, m, roman_var=roman_var: convert_roman_to_dec(roman_var))
@@ -46,7 +46,7 @@ bin_entry = Entry(root, textvariable=roman_var)
 bin_entry.grid(row=0, column=1)
 
 # Decimals
-Label(root, text='Decimal').grid(row=1, column=0, sticky='E')
+Label(root, text='Roman numerals').grid(row=1, column=0, sticky='E')
 
 dec_var = StringVar(value='0')
 
