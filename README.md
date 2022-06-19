@@ -11,17 +11,17 @@ Dev list
 - [x] Notes app
 - [x] Input validation
 - [x] Stopwatch
+- [x] Roman2Dec
 - [ ] CSV2JSON
 - [ ] Pomodoro clock
 - [ ] Quiz
-- [ ] Roman2Dec
 - [ ] Vigenere Cipher
 
 ## Tier 2
 - [x] Password generator
 - [x] This or That
-- [ ] To-do
 - [ ] Currency converter
+- [ ] To-do
 - [ ] Card memory game
 - [ ] Keyvalue
 - [ ] Lorem Ipsum generator
