@@ -12,10 +12,10 @@ Dev list
 - [x] Input validation
 - [x] Stopwatch
 - [x] Roman2Dec
+- [x] Vigenere Cipher
 - [ ] CSV2JSON
 - [ ] Pomodoro clock
 - [ ] Quiz
-- [ ] Vigenere Cipher
 
 ## Tier 2
 - [x] Password generator
