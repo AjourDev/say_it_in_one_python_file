@@ -5,8 +5,8 @@ import random
 
 # 0=No signs, 1=Signs
 comb_chars = [
-    'abcdefghijklmnopqrstuvxyzABCDEFGHIJKLMNOPQRSTUVXYZ0123456789',
-    'abcdefghijklmnopqrstuvxyzABCDEFGHIJKLMNOPQRSTUVXYZ0123456789 !"#$%&\'()*+,-./:;<=>?@[\]^_`{|}~'
+    'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789',
+    'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 !"#$%&\'()*+,-./:;<=>?@[\]^_`{|}~'
     ]
 
 sl_steps = [(idx+1) for idx in range(40)]
